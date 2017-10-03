@@ -9,7 +9,7 @@ title = "Individual differences in perceptual adaptation to phonetic categories 
 summary = "This project examines how listeners overcome challenging conditions and what makes listeners better adapt to variability in both the signal and listening environments."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "dimension-adaptation.pdf"
+image_preview = "stimuli-adaptation.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

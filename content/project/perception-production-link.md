@@ -12,7 +12,7 @@ summary = "This project investigates how speech perception and production are re
 # summary = "An example of linking directly to an external project website using `external_link`."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "duration-imitation.pdf"
+image_preview = "duration-imitation.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

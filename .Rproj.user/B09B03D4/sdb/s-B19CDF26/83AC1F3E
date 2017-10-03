@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# Date this page was created.\ndate = \"2016-04-27\"\n\n# Project title.\ntitle = \"Individual differences in the link between perception and production and the mechanisms of phonetic imitation\"\n\n# Project summary to display on homepage.\nsummary = \"This project investigates how speech perception and production are related at an individual level using phonetic imitation.\"\n\n# # Project summary to display on homepage.\n# summary = \"An example of linking directly to an external project website using `external_link`.\"\n\n# Optional image to display on homepage (relative to `static/img/` folder).\nimage_preview = \"duration-imitation.jpg\"\n\n# Tags: can be used for filtering projects.\n# Example: `tags = [\"machine-learning\", \"deep-learning\"]`\ntags = [\"perception-production-link\"]\n\n# Optional external URL for project (replaces project detail page).\nexternal_link = \"\"\n\n# Does the project detail page use math formatting?\nmath = false\n\n+++\n\nThe goal of this project is to better understand how speech perception and production is linked at an individual level. This study investigates the relation between speech perception and production using a phonetic imitation paradigm. We used manipulated stimuli in both perception and production tasks with the goal of more directly exploring the link between the two, and examined (1) whether individual listeners’ perceptual cue weights are related to their patterns of phonetic imitation and (2) the underlying mechanisms of phonetic imitation.\n",
+    "created" : 1507057955888.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3186135084",
+    "id" : "83AC1F3E",
+    "lastKnownWriteTime" : 1507057962,
+    "last_content_update" : 1507057962039,
+    "path" : "~/Dropbox/blogdown/content/project/perception-production-link.md",
+    "project_path" : "content/project/perception-production-link.md",
+    "properties" : {
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

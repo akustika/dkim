@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# Date this page was created.\ndate = \"2016-04-27\"\n\n# Project title.\ntitle = \"Individual differences in perceptual adaptation to phonetic categories in adverse conditions\"\n\n# Project summary to display on homepage.\nsummary = \"This project examines how listeners overcome challenging conditions and what makes listeners better adapt to variability in both the signal and listening environments.\"\n\n# Optional image to display on homepage (relative to `static/img/` folder).\nimage_preview = \"stimuli-adaptation.jpg\"\n\n# Tags: can be used for filtering projects.\n# Example: `tags = [\"machine-learning\", \"deep-learning\"]`\ntags = [\"perceptual-adaptation\"]\n\n# Optional external URL for project (replaces project detail page).\nexternal_link = \"\"\n\n# Does the project detail page use math formatting?\nmath = false\n\n# # Optional featured image (relative to `static/img/` folder).\n# [header]\n# image = \"headers/bubbles-wide.jpg\"\n# caption = \"My caption :smile:\"\n\n+++\n\nThe goal of this project is to better understand the underlying mechanisms of perceptual adaptation to variability of speech. We examine how listeners overcome challenging conditions and what makes listeners better adapt to variability in both the signal and listening environments.\n",
+    "created" : 1507057588414.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "742499229",
+    "id" : "295CBC09",
+    "lastKnownWriteTime" : 1507057850,
+    "last_content_update" : 1507057850535,
+    "path" : "~/Dropbox/blogdown/content/project/perceptual-adaptation.md",
+    "project_path" : "content/project/perceptual-adaptation.md",
+    "properties" : {
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
