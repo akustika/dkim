@@ -9,7 +9,7 @@ title = "A longitudinal study of the acquisition of novel speech sound contrasts
 summary = "This project explores how individual second language learners differ in their developmental trajectories in the acquisition of novel speech sound contrasts."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "individual-trajectories.pdf"
+image_preview = "individual-trajectories.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
