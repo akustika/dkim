@@ -16,7 +16,7 @@ title = "A longitudinal study of individual differences in the acquisition of ne
 url_code = ""
 url_dataset = ""
 url_pdf = ""
-url_project = "project/l2-speech-acquisition/"
+url_project = "project/L2-speech-acquisition/"
 url_slides = ""
 url_video = ""
 

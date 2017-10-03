@@ -12,14 +12,14 @@ selected = false
 title = "Individual differences in second language speech perception across tasks and contrasts: The case of English vowel contrasts by Korean learners"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://www.researchgate.net/profile/Donghyun_Kim13/publication/313948075_Individual_differences_in_second_language_speech_perception_across_tasks_and_contrasts_The_case_of_English_vowel_contrasts_by_Korean_learners/links/592231efaca27295a8a643a8/Individual-differences-in-second-language-speech-perception-across-tasks-and-contrasts-The-case-of-English-vowel-contrasts-by-Korean-learners.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=0XLhLBaERwZI9NwA1YZkbIY8B7P9rgHnMvETFmI_2KeVWAyY0QjMprfw7IB4Mfg0AMsgCCIHmVs7z0Y2-C0DFdn0hGYwegsvuYNz20tjPZmbhWBILosc3xCo.rz1DhhETvd2sLWcT21v6i2MKTifV_qIFWZaCXWbk2Yn5HsG-Mx6aVQ5gVxEQn9ltBHE5U9IkijHLaOt5STF2mj1-jUFkIOX3FqCm4A.Xbz97T1pib38S1vHMs7Uh5TimCT41z3rU6VdJCLExRq1htv3Q5sWVzpyda-q4HTWFqwV3T1AxitniNMSfT1T90Me3EDNCMw16FhUmQ.aOAPC-mLZu48Nb6cj1PQSIQAbyRdoHgEyVJKXsIi34XijA8tjEml6A4Mia6z0OVIEU1yjy0GRKGPMM-0FoPX_03vxS7DqS8azJqbsA"
+url_pdf = "pdf/Kim-Clayards-Goad_2017.pdf"
 url_project = "project/L2-speech-acquisition/"
 url_slides = ""
 url_video = ""
 
 # [[url_custom]]
-# name = "Custom Link"
-# url = "http://www.example.org"
+# name = "View Journal Article"
+# url = "https://www.degruyter.com/view/j/lingvan.2017.3.issue-1/lingvan-2016-0025/lingvan-2016-0025.xml"
 
 # # Optional featured image (relative to `static/img/` folder).
 # [header]

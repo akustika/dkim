@@ -47,6 +47,16 @@
     </item>
     
     <item>
+      <title>A longitudinal study of the acquisition of novel speech sound contrasts</title>
+      <link>/project/l2-speech-acquisition/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/l2-speech-acquisition/</guid>
+      <description>&lt;p&gt;The goal of this project is to understand how individual second language learners differ in their developmental trajectories in the acquisition of novel speech sound contrasts. We take an individual differences approach using longitudinal data to investigate how individual L2 learners differ in their developmental trajectories over time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Individual differences in second language speech perception across tasks and contrasts: The case of English vowel contrasts by Korean learners</title>
       <link>/publication/perception-tasks-contrasts/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
@@ -145,8 +155,7 @@
       <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
       
       <guid>/talk/ksss2016/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -156,16 +165,6 @@
       
       <guid>/about/</guid>
       <description>&lt;p&gt;This is a &amp;ldquo;hello world&amp;rdquo; example website for the &lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; package. The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-lithium-theme&#34; target=&#34;_blank&#34;&gt;@jrutheiser/hugo-lithium-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/yihui/hugo-lithium-theme&#34; target=&#34;_blank&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A longitudinal study of the acquisition of novel speech sound contrasts</title>
-      <link>/project/l2-speech-acquisition/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/l2-speech-acquisition/</guid>
-      <description>&lt;p&gt;The goal of this project is to understand how individual second language learners differ in their developmental trajectories in the acquisition of novel speech sound contrasts. We take an individual differences approach using longitudinal data to investigate how individual L2 learners differ in their developmental trajectories over time.&lt;/p&gt;
 </description>
     </item>
     
