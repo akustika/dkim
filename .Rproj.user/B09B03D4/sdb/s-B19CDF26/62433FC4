@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\nabstract = \"This study investigates the relation between speech perception and production using a phonetic imitation paradigm. We used manipulated stimuli in both perception and production tasks to explore the perception-production link in a more direct and controlled way. Here we examined (1) whether individual listeners’ perceptual cue weights are related to their patterns of phonetic imitation and (2) the underlying mechanisms of phonetic imitation. Results showed that individuals’ perceptual cue weights are tightly linked to their production patterns in imitation. Specifically, better perceptual abilities (i.e., greater cue weights) were converted into better imitation of vowel duration. Furthermore, imitation of ambiguous vowels was mediated by contrast maintenance, but perceptually salient extended and shortened vowels facilitated more imitation regardless of their phonological relevance. These results suggest that speech perception and production are indeed linked but not in an obvious way, and both linguistic and cognitive factors play a role in this process.\"\nabstract_short = \"\"\nauthors = [\"Donghyun Kim\", \"Meghan Clayards\"]\ndate = \"2017-10-30\"\nimage_preview = \"\"\nmath = true\npublication_types = [\"3\"]\npublication = \"\"\npublication_short = \"\"\nselected = false\ntitle = \"Individual differences in the link between perception and production and the mechanisms of phonetic imitation\"\nurl_code = \"\"\nurl_dataset = \"\"\nurl_pdf = \"\"\nurl_project = \"project/perception-production-link/\"\nurl_slides = \"\"\nurl_video = \"\"\n\n+++\n",
+    "created" : 1507034842615.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2204718257",
+    "id" : "62433FC4",
+    "lastKnownWriteTime" : 1506745466,
+    "last_content_update" : 1506745466,
+    "path" : "~/Dropbox/blogdown/content/publication/perception-production-link.md",
+    "project_path" : "content/publication/perception-production-link.md",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

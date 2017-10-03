@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\nabstract = \"The present study examines whether individual differences in second language (L2) learners’ perceptual cue weighting strategies reflect systematic abilities. We tested whether cue weights indicate proficiency in perception using a naturalistic discrimination task as well as whether cue weights are related across contrasts for individual learners. Twenty-four native Korean learners of English completed a two-alternative forced choice identification task on /ɪ/-/i/ and /ɛ/-/æ/ contrasts varying orthogonally in formant frequency and duration to determine their perceptual cue weights. They also completed a two-talker AX discrimination task on natural productions of the same vowels. In the cue-weighting task, we found that individual L2 learners varied greatly in the extent to which they relied on particular phonetic cues. However, individual learners’ perceptual weighting strategies were consistent across contrasts. We also found that more native-like performance on this task – reliance on spectral differences over duration – was related to better recognition of naturally produced vowels in the discrimination task. Therefore, the present study confirms earlier reports that learners vary in the extent to which they rely on particular phonetic cues. Additionally, our results demonstrate that these individual differences reflect systematic cue use across contrasts as well as the ability to discriminate naturally produced stimuli.\"\nabstract_short = \"\"\nauthors = [\"Donghyun Kim\", \"Meghan Clayards\", \"Heather Goad\"]\ndate = \"2017-08-01\"\nimage_preview = \"\"\nmath = true\npublication_types = [\"2\"]\npublication = \"In *Linguistics Vanguard*\"\npublication_short = \"In *LingVan*\"\nselected = false\ntitle = \"Individual differences in second language speech perception across tasks and contrasts: The case of English vowel contrasts by Korean learners\"\nurl_code = \"\"\nurl_dataset = \"\"\nurl_pdf = \"pdf/Kim-Clayards-Goad_2017.pdf\"\nurl_project = \"project/L2-speech-acquisition/\"\nurl_slides = \"\"\nurl_video = \"\"\n\n# [[url_custom]]\n# name = \"View Journal Article\"\n# url = \"https://www.degruyter.com/view/j/lingvan.2017.3.issue-1/lingvan-2016-0025/lingvan-2016-0025.xml\"\n\n# # Optional featured image (relative to `static/img/` folder).\n# [header]\n# image = \"headers/bubbles-wide.jpg\"\n# caption = \"My caption :smile:\"\n\n+++\n",
+    "created" : 1507034872756.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2482270134",
+    "id" : "6E321339",
+    "lastKnownWriteTime" : 1507042075,
+    "last_content_update" : 1507042075426,
+    "path" : "~/Dropbox/blogdown/content/publication/perception-tasks-contrasts.md",
+    "project_path" : "content/publication/perception-tasks-contrasts.md",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

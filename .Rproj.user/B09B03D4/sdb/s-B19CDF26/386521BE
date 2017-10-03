@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\ndate = \"2017-12-07T00:00:00\"\ntitle = \"Individual differences in perceptual adaptation to phonetic categories: Categorization gradiency and cognitive abilities\"\nabstract = \"We examine whether listeners flexibly adapt to unfamiliar speech patterns such as those encountered in foreign-accented English vowels. In these cases, the relative informativity of acoustic dimensions (spectral quality vs. duration) can be changed such that the most informative dimension (spectral quality) is no longer informative, but the role of the secondary cue (duration) is enhanced. We further test whether listeners’ adaptive strategies are related to individual differences in utilizations of secondary cues (measured by categorization gradiency) and cognitive abilities. Native English listeners (N=36) listened to continuum of vowels /ɛ/ and /æ/ (as in head and had) varying spectral and duration values to complete a perceptual adaptation task, a visual analogue scaling (VAS) task, and were given cognitive ability tasks examining executive function capacities. Results showed that listeners mostly used spectral quality to signal vowel category at baseline, but rapidly adapted by up-weighting reliance on duration when spectral quality was no longer informative. The VAS task showed substantial individual differences in categorization gradiency with more gradient listeners using a secondary cue more, but gradiency was not linked to degree of adaptation. Finally, results of cognitive ability tasks revealed that individual differences in inhibitory control, but not the other cognitive abilities, correlated with the amount of perceptual adaptation.\"\nabstract_short = \"\"\nevent = \"174th Meeting of the Acoustical Society of America\"\nevent_url = \"http://acousticalsociety.org/content/174th-meeting-acoustical-society-america\"\nlocation = \"New Orleans, USA\"\n\nselected = false\nmath = true\n\nurl_pdf = \"\"\nurl_slides = \"\"\nurl_video = \"\"\n\n# # Optional featured image (relative to `static/img/` folder).\n# [header]\n# image = \"headers/bubbles-wide.jpg\"\n# caption = \"My caption :smile:\"\n\n+++\n",
+    "created" : 1507039485362.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2674744311",
+    "id" : "386521BE",
+    "lastKnownWriteTime" : 1506719645,
+    "last_content_update" : 1506719645,
+    "path" : "~/Dropbox/blogdown/content/talk/asa174.md",
+    "project_path" : "content/talk/asa174.md",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
