@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n\nabstract = \"This study examines how individuals’ cue weighting strategies change over time by examining how cue weights are acquired across different contrasts. The study investigates the developmental changes in perceptual cue weighting of two English vowel contrasts (/i/-/ɪ/ and /ɛ/-/æ/) by adult and child Korean learners of English during their first year of immersion in Canada. Longitudinal results revealed that adult learners had an initial advantage in L2 perceptual acquisition over children at least for the /i/-/ɪ/ contrast, but after one year children showed greater improvements especially on the more difficult /ɛ/-/æ/ contrast. Both groups of Korean learners showed different acquisition patterns between the two vowel contrasts: they used both spectral and duration cues to distinguish /i/-/ɪ/ but generally only duration to distinguish /ɛ/-/æ/. By examining cue weights over time, this study partially confirmed the hypothesized developmental stages for the acquisition of L2 vowels first proposed by Escudero (2000) for Spanish learners of English. However, some unpredicted patterns were also identified. Most importantly, the longitudinal results suggest that individual differences in cue weighting are not merely random variability in the learner’s response patterns, but are systematically associated with the developmental trajectories of individual learners and those trajectories vary according to vowel contrast.\"\n\nabstract_short = \"The study investigates the developmental changes in perceptual cue weighting of English vowel contrasts by adult and child learners of English during their first year of immersion in Canada. Longitudinal results suggest that individual differences in cue weighting are not merely random variability in the learner’s response patterns, but are systematically associated with the developmental trajectories of individual learners and those trajectories vary according to vowel contrast.\"\n\nauthors = [\"Donghyun Kim\", \"Meghan Clayards\", \"Heather Goad\"]\ndate = \"2017-10-22\"\nimage_preview = \"\"\nmath = true\npublication_types = [\"2\"]\npublication = \"accepted with minor revisions\"\npublication_short = \"In *Journal of Phonetics*\"\nselected = true\ntitle = \"A longitudinal study of individual differences in the acquisition of new vowel contrasts\"\nurl_code = \"\"\nurl_dataset = \"\"\nurl_pdf = \"\"\nurl_project = \"project/l2-speech-acquisition/\"\nurl_slides = \"\"\nurl_video = \"\"\n\n# [[url_custom]]\n# name = \"Custom Link\"\n# url = \"http://www.example.org\"\n\n# # Optional featured image (relative to `static/img/` folder).\n# [header]\n# image = \"headers/bubbles-wide.jpg\"\n# caption = \"My caption :smile:\"\n\n+++\n",
+    "created" : 1507007057587.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "687508108",
+    "id" : "157AB4E",
+    "lastKnownWriteTime" : 1506995457,
+    "last_content_update" : 1506995457,
+    "path" : "~/Dropbox/blogdown/content/publication/longitudinal-perception.md",
+    "project_path" : "content/publication/longitudinal-perception.md",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Donghyun Kim</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Donghyun Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Donghyun Kim</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Individual differences in the link between perception and production and the mechanisms of phonetic imitation</title>
+      <link>/publication/perception-production-link/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/perception-production-link/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A longitudinal study of individual differences in the acquisition of new vowel contrasts</title>
+      <link>/publication/longitudinal-perception/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/longitudinal-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual differences in second language speech perception across tasks and contrasts: The case of English vowel contrasts by Korean learners</title>
+      <link>/publication/perception-tasks-contrasts/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/perception-tasks-contrasts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Donghyun Kim</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Donghyun Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Donghyun Kim</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A longitudinal study of the acquisition of novel speech sound contrasts</title>
+      <link>/project/l2-speech-acquisition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/l2-speech-acquisition/</guid>
+      <description>&lt;p&gt;The goal of this project is to understand how individual second language learners differ in their developmental trajectories in the acquisition of novel speech sound contrasts. We take an individual differences approach using longitudinal data to investigate how individual L2 learners differ in their developmental trajectories over time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Individual differences in perceptual adaptation to phonetic categories in adverse conditions</title>
+      <link>/project/perceptual-adaptation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/perceptual-adaptation/</guid>
+      <description>&lt;p&gt;The goal of this project is to better understand the underlying mechanisms of perceptual adaptation to variability of speech. We examine how listeners overcome challenging conditions and what makes listeners better adapt to variability in both the signal and listening environments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Individual differences in the link between perception and production and the mechanisms of phonetic imitation</title>
+      <link>/project/perception-production-link/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/perception-production-link/</guid>
+      <description>&lt;p&gt;The goal of this project is to better understand how speech perception and production is linked at an individual level. This study investigates the relation between speech perception and production using a phonetic imitation paradigm. We used manipulated stimuli in both perception and production tasks with the goal of more directly exploring the link between the two, and examined (1) whether individual listeners’ perceptual cue weights are related to their patterns of phonetic imitation and (2) the underlying mechanisms of phonetic imitation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
