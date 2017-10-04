@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "+++\n# Date this page was created.\ndate = \"2017-09-23\"\n\n# Project title.\ntitle = \"A longitudinal study of the acquisition of novel speech sound contrasts\"\n\n# Project summary to display on homepage.\nsummary = \"This project explores how individual second language learners differ in their developmental trajectories in the acquisition of novel speech sound contrasts.\"\n\n# Optional image to display on homepage (relative to `static/img/` folder).\nimage_preview = \"individual-trajectories.jpg\"\n\n# Tags: can be used for filtering projects.\n# Example: `tags = [\"machine-learning\", \"deep-learning\"]`\ntags = [\"L2-speech-acquisition\"]\n\n# Optional external URL for project (replaces project detail page).\nexternal_link = \"\"\n\n# Does the project detail page use math formatting?\nmath = false\n\n# # Optional featured image (relative to `static/img/` folder).\n# [header]\n# image = \"headers/bubbles-wide.jpg\"\n# caption = \"My caption :smile:\"\n\n+++\n\nThe goal of this project is to understand how individual second language learners differ in their developmental trajectories in the acquisition of novel speech sound contrasts. We take an individual differences approach using longitudinal data to investigate how individual L2 learners differ in their developmental trajectories over time.\n",
+    "contents" : "+++\n# Date this page was created.\ndate = \"2017-09-23\"\n\n# Project title.\ntitle = \"A longitudinal study of the acquisition of novel speech sound contrasts\"\n\n# Project summary to display on homepage.\nsummary = \"This project explores how individual second language learners differ in their developmental trajectories in the acquisition of novel speech sound contrasts.\"\n\n# Optional image to display on homepage (relative to `static/img/` folder).\nimage_preview = \"individual-trajectories.jpg\"\n\n# Tags: can be used for filtering projects.\n# Example: `tags = [\"machine-learning\", \"deep-learning\"]`\ntags = [\"L2-speech-acquisition\"]\n\n# Optional external URL for project (replaces project detail page).\nexternal_link = \"\"\n\n# Does the project detail page use math formatting?\nmath = false\n\n# Optional featured image (relative to `static/img/` folder).\n[header]\nimage = \"headers/L2-speech-perception.jpg\"\ncaption = \"L2 speech perception :smile:\"\n\n+++\n\nThe goal of this project is to understand how individual second language learners differ in their developmental trajectories in the acquisition of novel speech sound contrasts. We take an individual differences approach using longitudinal data to investigate how individual L2 learners differ in their developmental trajectories over time.\n",
     "created" : 1507056300353.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "372917385",
+    "hash" : "1300760707",
     "id" : "3386EDFA",
-    "lastKnownWriteTime" : 1507056337,
-    "last_content_update" : 1507056337835,
+    "lastKnownWriteTime" : 1507095216,
+    "last_content_update" : 1507095216758,
     "path" : "~/Dropbox/blogdown/content/project/L2-speech-acquisition.md",
     "project_path" : "content/project/L2-speech-acquisition.md",
     "properties" : {

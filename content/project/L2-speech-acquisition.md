@@ -21,10 +21,10 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
-# # Optional featured image (relative to `static/img/` folder).
-# [header]
-# image = "headers/bubbles-wide.jpg"
-# caption = "My caption :smile:"
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/L2-speech-perception.jpg"
+caption = "L2 speech perception :smile:"
 
 +++
 
