@@ -31,4 +31,6 @@ caption = "Perception-production link :smile:"
 
 +++
 
+As language users who perceive and produce speech sounds, the link between speech perception and production is inherent in our use of spoken language. Although relatively little is known about the nature of this link and whether the same representations are used for both perception and production, understanding how speech perception and production are related is important for better understanding the mechanisms underlying speech perception and production as well as for the better understanding of speech communication in general.
+
 The goal of this project is to better understand how speech perception and production is linked at an individual level. This study investigates the relation between speech perception and production using a phonetic imitation paradigm. We used manipulated stimuli in both perception and production tasks with the goal of more directly exploring the link between the two, and examined (1) whether individual listeners’ perceptual cue weights are related to their patterns of phonetic imitation and (2) the underlying mechanisms of phonetic imitation.

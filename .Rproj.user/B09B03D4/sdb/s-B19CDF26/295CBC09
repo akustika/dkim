@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "+++\n# Date this page was created.\ndate = \"2016-04-27\"\n\n# Project title.\ntitle = \"Individual differences in perceptual adaptation to phonetic categories in adverse conditions\"\n\n# Project summary to display on homepage.\nsummary = \"This project examines how listeners overcome challenging conditions and what makes listeners better adapt to variability in both the signal and listening environments.\"\n\n# Optional image to display on homepage (relative to `static/img/` folder).\nimage_preview = \"stimuli-adaptation.jpg\"\n\n# Tags: can be used for filtering projects.\n# Example: `tags = [\"machine-learning\", \"deep-learning\"]`\ntags = [\"perceptual-adaptation\"]\n\n# Optional external URL for project (replaces project detail page).\nexternal_link = \"\"\n\n# Does the project detail page use math formatting?\nmath = false\n\n# Optional featured image (relative to `static/img/` folder).\n[header]\nimage = \"headers/perceptual-adaptation.jpg\"\ncaption = \"Perceptual adaptation :smile:\"\n\n+++\n\nThe goal of this project is to better understand the underlying mechanisms of perceptual adaptation to variability of speech. We examine how listeners overcome challenging conditions and what makes listeners better adapt to variability in both the signal and listening environments.\n",
+    "contents" : "+++\n# Date this page was created.\ndate = \"2016-04-27\"\n\n# Project title.\ntitle = \"Individual differences in perceptual adaptation to phonetic categories in adverse conditions\"\n\n# Project summary to display on homepage.\nsummary = \"This project examines how listeners overcome challenging conditions and what makes listeners better adapt to variability in both the signal and listening environments.\"\n\n# Optional image to display on homepage (relative to `static/img/` folder).\nimage_preview = \"stimuli-adaptation.jpg\"\n\n# Tags: can be used for filtering projects.\n# Example: `tags = [\"machine-learning\", \"deep-learning\"]`\ntags = [\"perceptual-adaptation\"]\n\n# Optional external URL for project (replaces project detail page).\nexternal_link = \"\"\n\n# Does the project detail page use math formatting?\nmath = false\n\n# Optional featured image (relative to `static/img/` folder).\n[header]\nimage = \"headers/perceptual-adaptation.jpg\"\ncaption = \"Perceptual adaptation :smile:\"\n\n+++\n\nAlthough speech sounds are highly variable and listeners may have limited cognitive resources under adverse conditions, listeners are shown to overcome these challenges by flexibly adapting to these varying situations and achieving an invariant percept. Understanding how listeners overcome these adverse conditions is a fundamental issue for better understanding the mechanisms underlying perceptual learning in speech and more generally speech perception processes. \n\nThe goal of this project is to better understand the underlying mechanisms of perceptual adaptation to variability of speech. We examine how listeners overcome challenging conditions and what makes listeners better adapt to variability in both the signal and listening environments.\n",
     "created" : 1507057588414.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "952890578",
+    "hash" : "2650219412",
     "id" : "295CBC09",
-    "lastKnownWriteTime" : 1507095362,
-    "last_content_update" : 1507095362759,
+    "lastKnownWriteTime" : 1507152852,
+    "last_content_update" : 1507152852723,
     "path" : "~/Dropbox/blogdown/content/project/perceptual-adaptation.md",
     "project_path" : "content/project/perceptual-adaptation.md",
     "properties" : {
