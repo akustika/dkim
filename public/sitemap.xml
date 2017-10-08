@@ -23,6 +23,15 @@
     
     <url>
     
+      <loc>/talk/apcam2017/</loc>
+      <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/perception-production-link/</loc>
       <lastmod>2017-10-30T00:00:00+00:00</lastmod>
     </url>
@@ -34,6 +43,15 @@
     
       <loc>/publication/longitudinal-perception/</loc>
       <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/perceptual-adaptation/</loc>
+      <lastmod>2017-09-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -160,15 +178,6 @@
     
       <loc>/about/</loc>
       <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/perceptual-adaptation/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -391,7 +400,7 @@
     <url>
     
       <loc>/tags/perceptual-adaptation/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-09-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -411,7 +420,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2017-09-23T00:00:00+00:00</lastmod>
+      <lastmod>2017-09-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

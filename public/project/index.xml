@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Donghyun Kim</copyright>
-    <lastBuildDate>Sat, 23 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Individual differences in perceptual adaptation to phonetic categories in adverse conditions</title>
+      <link>/project/perceptual-adaptation/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/perceptual-adaptation/</guid>
+      <description>&lt;p&gt;Although speech sounds are highly variable and listeners may have limited cognitive resources under adverse conditions, listeners are shown to overcome these challenges by flexibly adapting to these varying situations and achieving an invariant percept. Understanding how listeners overcome these adverse conditions is a fundamental issue for better understanding the mechanisms underlying perceptual learning in speech and more generally speech perception processes.&lt;/p&gt;
+
+&lt;p&gt;The goal of this project is to better understand the underlying mechanisms of perceptual adaptation to variability of speech. We examine how listeners overcome challenging conditions and what makes listeners better adapt to variability in both the signal and listening environments.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A longitudinal study of the acquisition of novel speech sound contrasts</title>
@@ -21,18 +33,6 @@
 &lt;p&gt;Most studies of L2 acquisition of sound categories have focused either on comparing the learning of different contrasts or on the learning of appropriate cue weights for particular contrasts. Most studies have also used cross-sectional approaches to investigate the development of L2 speech acquisition. Moreover, relatively little has been reported on age-related differences in L2 speech acquisition. Taken together, this has limited our understanding of (1) how individuals’ cue weighting strategies change over time, (2) how cue weights are acquired across contrasts, especially between easier and harder contrasts that rely on the same acoustic cues such as /i/-/ɪ/ and /ɛ/-/æ/, and (3) whether adult and child learners show different developmental patterns.&lt;/p&gt;
 
 &lt;p&gt;The goal of this project is to understand how individual second language learners differ in their developmental trajectories in the acquisition of novel speech sound contrasts. We take an individual differences approach using longitudinal data to investigate how individual L2 learners differ in their developmental trajectories over time. We also test whether child and adult learners differ in their acquisition patterns and whether they follow different trajectories.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Individual differences in perceptual adaptation to phonetic categories in adverse conditions</title>
-      <link>/project/perceptual-adaptation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/perceptual-adaptation/</guid>
-      <description>&lt;p&gt;Although speech sounds are highly variable and listeners may have limited cognitive resources under adverse conditions, listeners are shown to overcome these challenges by flexibly adapting to these varying situations and achieving an invariant percept. Understanding how listeners overcome these adverse conditions is a fundamental issue for better understanding the mechanisms underlying perceptual learning in speech and more generally speech perception processes.&lt;/p&gt;
-
-&lt;p&gt;The goal of this project is to better understand the underlying mechanisms of perceptual adaptation to variability of speech. We examine how listeners overcome challenging conditions and what makes listeners better adapt to variability in both the signal and listening environments.&lt;/p&gt;
 </description>
     </item>
     
