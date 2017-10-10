@@ -795,7 +795,7 @@ footer a#back_to_top i {
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: rgba(55,108,89, 0.8);
+  background-color: rgba(66,158,108, 0.8); /* Project All color */
 }
 
 /*************************************************
