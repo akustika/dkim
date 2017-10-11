@@ -3,7 +3,7 @@
 date = "2017-09-27"
 
 # Project title.
-title = "Individual differences in perceptual adaptation to phonetic categories in adverse conditions"
+title = "Perceptual adaptation to phonetic categories in adverse conditions"
 
 # Project summary to display on homepage.
 summary = "This project examines how listeners overcome challenging conditions and what makes listeners better adapt to variability in both the signal and listening environments."
