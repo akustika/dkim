@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Individual differences in the link between perception and production and the mechanisms of phonetic imitation"
+title = "The link between perception and production and the mechanisms of phonetic imitation"
 
 # Project summary to display on homepage.
 summary = "This project investigates how speech perception and production are related at an individual level using phonetic imitation."
