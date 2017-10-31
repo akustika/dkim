@@ -40,8 +40,8 @@ weight = 1
 
 # Biography
 
-I am a PhD candidate of linguistics at McGill University. Broadly, I am interested in speech perception and production, phonetics, second language acquisition and psycholinguistics. My research focuses on second-language speech learning, linguistic and cognitive mechanisms in speech perception and production, and adaptive processes in speech perception. I am particularly concerned with how these processes differ across individuals and how they are integrated to broaden our understanding of linguistic and cognitive mechanisms in speech processing and learning. 
+I am a PhD candidate of linguistics at McGill University. Broadly, I am interested in speech perception and production, phonetics, second language acquisition and psycholinguistics. My research focuses on linguistic and cognitive mechanisms in speech perception and production, second-language speech learning, and adaptive processes in spoken language. I am particularly concerned with how these processes differ across individuals and how they are integrated to broaden our understanding of linguistic and cognitive mechanisms in speech processing and learning.
 
-Currently, I am working on my PhD dissertation on how listeners overcome challenging listening conditions and what makes listeners better adapt to variability in both the signal and listening environments.
+Currently, I am working on my PhD dissertation on how listeners overcome challenging listening conditions and what makes individual listeners better adapt to variability in both the signal and listening environments.
 
 Previously, I investigated how individual second language learners differ in their developmental trajectories in the acquisition of novel speech sound contrasts longitudinally. I also examined how and to what extent speech perception and production are linked at an individual level using phonetic imitation.
