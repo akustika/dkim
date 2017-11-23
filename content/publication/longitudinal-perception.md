@@ -5,11 +5,11 @@ abstract = "This study examines how individuals’ cue weighting strategies chan
 abstract_short = "The study investigates the developmental changes in perceptual cue weighting of English vowel contrasts by adult and child learners of English during their first year of immersion in Canada. Longitudinal results suggest that individual differences in cue weighting are not merely random variability in the learner’s response patterns, but are systematically associated with the developmental trajectories of individual learners and those trajectories vary according to vowel contrast."
 
 authors = ["Donghyun Kim", "Meghan Clayards", "Heather Goad"]
-date = "2017-10-22"
+date = "2017-11-18"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "accepted with minor revisions"
+publication = "accepted"
 publication_short = "In *Journal of Phonetics*"
 selected = false
 title = "A longitudinal study of individual differences in the acquisition of new vowel contrasts"
