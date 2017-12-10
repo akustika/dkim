@@ -17,9 +17,9 @@ url_project = "project/L2-speech-acquisition/"
 url_slides = ""
 url_video = ""
 
-# [[url_custom]]
-# name = "View Journal Article"
-# url = "https://www.degruyter.com/view/j/lingvan.2017.3.issue-1/lingvan-2016-0025/lingvan-2016-0025.xml"
+[[url_custom]]
+name = "Online Article"
+url = "https://www.degruyter.com/view/j/lingvan.2017.3.issue-1/lingvan-2016-0025/lingvan-2016-0025.xml?format=INT"
 
 # # Optional featured image (relative to `static/img/` folder).
 # [header]
