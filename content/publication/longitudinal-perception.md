@@ -9,20 +9,20 @@ date = "2017-11-18"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "in press in *Journal of Phonetics*"
+publication = "In *Journal of Phonetics*"
 publication_short = "In *Journal of Phonetics*"
 selected = false
 title = "A longitudinal study of individual differences in the acquisition of new vowel contrasts"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "pdf/Kim-Clayards-Goad_2018.pdf"
 url_project = "project/L2-speech-acquisition/"
 url_slides = ""
 url_video = ""
 
-# [[url_custom]]
-# name = "Custom Link"
-# url = "http://www.example.org"
+[[url_custom]]
+name = "View Journal Article"
+url = "https://authors.elsevier.com/a/1WBs7LixzW6B7"
 
 # # Optional featured image (relative to `static/img/` folder).
 # [header]
