@@ -34,7 +34,7 @@ view = 1
   tag = ".perception-production-link"
 
 [[filter]]
-  name = "Perceptual Adaptation"
+  name = "Plasticity in Speech Perception"
   tag = ".perceptual-adaptation"
 
 +++
