@@ -9,7 +9,7 @@ title = "Individual differences in plasticity in speech perception"
 summary = "This project examines how listeners overcome challenging conditions and what makes listeners better adapters to variability in the speech signal and cognitive load."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "stimuli-adaptation.jpg"
+image_preview = "stimuli-adaptation-inhibition.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
