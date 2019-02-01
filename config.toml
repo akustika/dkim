@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash.
 title = "Donghyun Kim"
-copyright = "&copy; 2017 Donghyun Kim"
+copyright = "&copy; 2019 Donghyun Kim"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,14 +20,14 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Donghyun Kim"
-  role = "PhD Candidate"
-  organization = "McGill University"
-  organization_url = "http://www.mcgill.ca"
+  role = "Postdoctoral Researcher"
+  organization = "University of Exeter"
+  organization_url = "https://www.exeter.ac.uk"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "donghyun.kim@mail.mcgill.ca"
-  address = "1085 Dr. Penfield, Room 111, Montreal, Quebec, Canada, H3A 1A7"
-#  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  email = "d.kim2@exeter.ac.uk"
+  address = "Department of Psychology, Room 218, University of Exeter, Exeter, United Kingdom"
+  office_hours = "Email for appointment"
 #  phone = "888 888 88 88"
 #  skype = "donplaysmusic"
   telegram = ""
@@ -126,7 +126,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:donghyun.kim@mail.mcgill.ca"
+    link = "mailto:d.kim2@exeter.ac.uk"
 
 #  [[params.social]]
 #    icon = "twitter"
