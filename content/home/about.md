@@ -42,7 +42,6 @@ weight = 1
 #   year = 2009
  
 +++
-
 # Biography
 
 I am currently a postdoctoral researcher at the University of Exeter. Here, I am part of a research team with Dr. Nicolas Dumay and Dr. Arthur Samuel, working on the role of sleep in learning and memory. We are particularly interested in sleep-mediated memory consolidation in word learning. Broadly, I am interested in speech perception and production, psycholinguistics, phonetics, and second language acquisition. My research focuses on understanding the mechanisms underlying linguistic and cognitive processes involved in speech perception and production, second-language speech learning, and word learning. I am particularly concerned with how these processes differ across individuals and how they can inform language learning and processing.
