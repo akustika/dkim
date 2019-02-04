@@ -6,9 +6,18 @@
     <description>Recent content in Publications on Donghyun Kim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Donghyun Kim</copyright>
+    <copyright>&amp;copy; 2019 Donghyun Kim</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Individual differences in the link between perception and production and the mechanisms of phonetic imitation</title>
+      <link>/publication/perception-production-link/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/perception-production-link/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A longitudinal study of individual differences in the acquisition of new vowel contrasts</title>
@@ -16,15 +25,6 @@
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/longitudinal-perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Individual differences in the link between perception and production and the mechanisms of phonetic imitation</title>
-      <link>/publication/perception-production-link/</link>
-      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/perception-production-link/</guid>
       <description></description>
     </item>
     
