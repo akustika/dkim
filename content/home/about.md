@@ -14,6 +14,33 @@ widget = "about"
 # Order that this section will appear in.
 weight = 1
 
+# # List your academic interests.
+# [interests]
+#   interests = [
+#     "Speech Perception",
+#     "Psycholinguistics",
+#     "Phonetics & Phonology",
+#     "Second Language Acquisition",
+#     "L1/L2 Speech Processing",
+#     "Sociophonetics"
+#   ]
+
+# # List your qualifications (such as academic degrees).
+# [[education.courses]]
+#   course = "PhD in Linguistics"
+#   institution = "McGill University"
+#   year = 2018
+# 
+# [[education.courses]]
+#   course = "MA in English Linguistics"
+#   institution = "Seoul National University"
+#   year = 2012
+# 
+# [[education.courses]]
+#   course = "BA in English Language and Literature"
+#   institution = "Myongji University"
+#   year = 2009
+ 
 +++
 
 # Biography
