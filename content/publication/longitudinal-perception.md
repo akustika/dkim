@@ -11,7 +11,7 @@ math = true
 publication_types = ["2"]
 publication = "In *Journal of Phonetics*"
 publication_short = "In *Journal of Phonetics*"
-selected = true
+selected = false
 title = "A longitudinal study of individual differences in the acquisition of new vowel contrasts"
 url_code = ""
 url_dataset = ""
@@ -22,7 +22,7 @@ url_video = ""
 
 [[url_custom]]
 name = "Online Article"
-url = "https://authors.elsevier.com/a/1WBs7LixzW6B7"
+url = "https://doi.org/10.1016/j.wocn.2017.11.003"
 
 # # Optional featured image (relative to `static/img/` folder).
 # [header]
