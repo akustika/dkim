@@ -19,7 +19,7 @@ url_video = ""
 
 [[url_custom]]
 name = "Online Article"
-url = "https://www.degruyter.com/view/j/lingvan.2017.3.issue-1/lingvan-2016-0025/lingvan-2016-0025.xml?format=INT"
+url = "https://doi.org/10.1515/lingvan-2016-0025"
 
 # # Optional featured image (relative to `static/img/` folder).
 # [header]
