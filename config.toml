@@ -16,6 +16,7 @@ googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
+hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 [blackfriday]
@@ -37,6 +38,13 @@ defaultContentLanguageInSubdir = false
   
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
+  
+  # Enter an optional link for booking appointments (e.g. calendly.com).
+  appointment_url = ""
+
+  # Discussion link (e.g. link to a forum, mailing list, or chat).
+  #   Uncomment line below to use.
+  #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
 
 
   # Diplay a logo in navigation bar rather than title (optional).
@@ -61,7 +69,7 @@ defaultContentLanguageInSubdir = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   map = 1
-  map_api_key = ""
+  map_api_key = "AIzaSyC7WdazgUc99sYV0y1kFmaznulx5VFTK4Y"
   latitude = "50.733166"
   longitude = "-3.536502"
   zoom = 15
