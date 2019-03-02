@@ -66,7 +66,6 @@ defaultContentLanguageInSubdir = false
   longitude = "-3.536502"
   zoom = 15
 
-
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
