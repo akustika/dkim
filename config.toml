@@ -30,7 +30,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "d.kim2@exeter.ac.uk"
-  address = "Department of Psychology, Room 218, University of Exeter, Exeter, UK"
+  address = "Washington Singer Building, Room 218, University of Exeter, Exeter, UK"
   office_hours = "Email for appointment"
   # phone = "888 888 88 88"
   #  skype = "donplaysmusic"
@@ -68,11 +68,11 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
-  map_api_key = "AIzaSyC7WdazgUc99sYV0y1kFmaznulx5VFTK4Y"
-  latitude = "50.733166"
-  longitude = "-3.536502"
-  zoom = 15
+  #map = 1
+  #map_api_key = ""
+  #latitude = "50.733166"
+  #longitude = "-3.536502"
+  #zoom = 15
 
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
