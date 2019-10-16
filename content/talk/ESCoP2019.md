@@ -15,6 +15,10 @@ url_pdf = ""
 url_slides = ""
 url_video = ""
 
+[[url_custom]]
+name = "Poster"
+url = "pdf/Kim-Clayards_ESCoP2019.pdf"
+
 # # Optional featured image (relative to `static/img/` folder).
 # [header]
 # image = "headers/bubbles-wide.jpg"
