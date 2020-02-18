@@ -36,6 +36,10 @@ view = 1
 [[filter]]
   name = "Plasticity in Speech Perception"
   tag = ".perceptual-adaptation"
+  
+[[filter]]
+  name = "The role of sleep in word learning"
+  tag = ".word-learning"  
 
 +++
 

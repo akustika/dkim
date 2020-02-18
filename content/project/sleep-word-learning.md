@@ -28,6 +28,6 @@ caption = "sleep and word learning :smile:"
 
 +++
 
-Although . This project addresses these issues by examining .
-
-The goal of this project is to better understand . We examine .
+# Although . This project addresses these issues by examining .
+# 
+# The goal of this project is to better understand . We examine .

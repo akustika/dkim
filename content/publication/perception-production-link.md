@@ -4,14 +4,14 @@ abstract = "This study investigates the relationship between speech perception a
 
 abstract_short = "In speech communication, language users constantly change roles and thus a language user who was once a speaker is subsequently a listener and vice versa, mutually influencing each other’s utterances. In terms of cognitive mechanisms of these processes, interlocutors interactively align their representations used in production and comprehension. This shows that the link between speech perception and production is inherent in our use of spoken language. Furthermore, understanding the nature of the relationship as to how and to what extent representations are shared or separate between perception and production may shed light on speech communication more generally. However, narrowing down the nature of the link is a harder task. In the present study, we focus on the nature of the link at the level of an individual language user."
 
-authors = ["Kim & Clayards"]
+authors = ["Kim, D. & Clayards, M."]
 date = "2019-07-03"
 image_preview = ""
 math = true
 highlight = true
 publication_types = ["2"]
-publication = "*Language, Cognition and Neuroscience*, *34*(6), 769--786"
-publication_short = "*Language, Cognition and Neuroscience*, *34*(6), 769--786"
+publication = "*Language, Cognition and Neuroscience*, *34*(6), 769--786."
+publication_short = "*Language, Cognition and Neuroscience*, *34*(6), 769--786."
 selected = true
 title = "Individual differences in the link between perception and production and the mechanisms of phonetic imitation"
 url_code = ""
