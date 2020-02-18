@@ -38,7 +38,7 @@ view = 1
   tag = ".perceptual-adaptation"
   
 [[filter]]
-  name = "The role of sleep in word learning"
+  name = "The Role of Sleep in Word Learning"
   tag = ".word-learning"  
 
 +++
