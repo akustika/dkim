@@ -4,7 +4,7 @@ title = "A longitudinal study of individual differences in the acquisition of ne
 date = "2018-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Kim, D.", "Clayards, M.", "& Goad, H."]
+authors = ["Donghyun Kim", "Meghan Clayards", "& Heather Goad"]
 
 # Publication type.
 # Legend:

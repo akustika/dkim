@@ -3,13 +3,13 @@
 date = "2020-01-11"
 
 # Project title.
-title = "The role of sleep in word learning"
+title = "The time course of word learning"
 
 # Project summary to display on homepage.
 summary = "This project examines the effects of sleep on the time course and lexical integration of novel words."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "vwp-ldt.jpg"
+image_preview = "vwp-splice.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -4,7 +4,7 @@ title = "Individual differences in the link between perception and production an
 date = "2019-07-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Kim, D. & Clayards, M."]
+authors = ["Donghyun Kim & Meghan Clayards"]
 
 # Publication type.
 # Legend:
