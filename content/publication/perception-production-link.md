@@ -29,7 +29,7 @@ abstract_short = "In speech communication, language users constantly change role
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 url_code = ""
 url_dataset = ""

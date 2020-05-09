@@ -3,7 +3,7 @@
 date = "2020-01-11"
 
 # Project title.
-title = "The time course of word learning"
+title = "The time course of learning and integration of novel words"
 
 # Project summary to display on homepage.
 summary = "This project examines the effects of sleep on the time course and lexical integration of novel words."
