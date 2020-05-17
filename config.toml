@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash.
 title = "Donghyun Kim"
-copyright = "&copy; 2019 Donghyun Kim"
+copyright = "&copy; 2020 Donghyun Kim"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
