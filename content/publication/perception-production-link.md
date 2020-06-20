@@ -1,6 +1,6 @@
 +++
 
-title = "Individual differences in the link between perception and production and the mechanisms of phonetic imitation. Language, Cognition and Neuroscience"
+title = "Individual differences in the link between perception and production and the mechanisms of phonetic imitation"
 date = "2019-07-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
