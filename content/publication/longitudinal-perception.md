@@ -1,6 +1,6 @@
 +++
 
-title = "A longitudinal study of individual differences in the acquisition of new vowel contrasts"
+title = "A longitudinal study of individual differences in the acquisition of new vowel contrasts. Journal of Phonetics, 67, 1--20."
 date = "2018-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

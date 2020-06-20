@@ -1,6 +1,6 @@
 +++
 
-title = "Individual differences in second language speech perception across tasks and contrasts: The case of English vowel contrasts by Korean learners. *Linguistics Vanguard*, *3*(1), 20160025."
+title = "Individual differences in second language speech perception across tasks and contrasts: The case of English vowel contrasts by Korean learners. Linguistics Vanguard, 3(1), 20160025."
 date = "2017-08-28"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
