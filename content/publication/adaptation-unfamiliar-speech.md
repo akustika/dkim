@@ -1,7 +1,7 @@
 +++
 
 title = "Individual differences in perceptual adaptation to unfamiliar phonetic categories"
-date = "2020-05-05"
+date = "2020-06-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Donghyun Kim", "Meghan Clayards", "& Eun Jong Kong"]
@@ -17,8 +17,8 @@ authors = ["Donghyun Kim", "Meghan Clayards", "& Eun Jong Kong"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Phonetics*, (accepted)."
-publication_short = "*Journal of Phonetics*, (accepted)."
+publication = "*Journal of Phonetics*, *81*, 100984."
+publication_short = "*Journal of Phonetics*, *81*, 100984."
 
 
 abstract = "The present study examines whether listeners flexibly adapt to unfamiliar speech patterns such as those encountered in foreign-accented English vowels, where the relative informativeness of primary (spectral quality) and secondary (duration) cues tends to be reversed (e.g., spectrally similar but exaggerated duration differences between *bet* and *bat*). This study further tests whether listeners’ adaptive strategies are related to individual differences in phoneme categorization gradiency and cognitive abilities. Native English listeners (N=36) listened to a continuum of vowels from /ɛ/ to /æ/ (as in *head* and *had*) varying in spectral and duration values to complete a perceptual adaptation task and a visual analog scaling (VAS) task. Participants also completed cognitive tasks examining executive function capacities. Results showed that listeners mostly used spectral quality to signal vowel category at baseline, but flexibly adapted by up-weighting reliance on duration when spectral quality became no longer diagnostic. In the VAS task, some listeners made more categorical responses while others made more gradient responses in vowel categorization, but these differences were not linked to their adaptive patterns. Results of cognitive tasks revealed that individual differences in inhibitory control correlated, to some degree, with the amount of adaptation. Together, these findings suggest that listeners flexibly adapt to unfamiliar speech categories using distributional information in the input and individual differences in cognitive abilities may influence their adaptability."
@@ -33,14 +33,14 @@ selected = true
 
 url_code = ""
 url_dataset = ""
-url_pdf = "pdf/Kim-Clayards-Kong_2020_JPhon_accepted.pdf"
+url_pdf = "pdf/Kim-Clayards-Kong_2020_JPhon.pdf"
 url_project = "project/perceptual-adaptation/"
 url_slides = ""
 url_video = ""
 
-# [[url_custom]]
-# name = "Online Article"
-# url = "https://doi.org/10.1080/23273798.2019.1582787"
+[[url_custom]]
+name = "Online Article"
+url = "https://doi.org/10.1016/j.wocn.2020.100984"
 
 # Does the content use math formatting?
 math = true
