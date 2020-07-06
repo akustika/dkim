@@ -1,7 +1,7 @@
 +++
 
 title = "Individual differences in perceptual adaptation to unfamiliar phonetic categories"
-date = "2020-06-27"
+date = "2020-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Donghyun Kim", "Meghan Clayards", "& Eun Jong Kong"]
