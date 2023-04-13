@@ -16,12 +16,13 @@ weight = 50
 
 Below is a list of courses or workshops that I have taught:
 
--   *An Introduction to Data Analysis using R* at Kumoh National Institute of Technology
--   *Advanced English Grammar* at Kumoh National Institute of Technology
--   *Workshop on Data Analysis in Linguistic Research* at Konkuk University
--   *English Pronunciation Teaching and Research* at Kumoh National Institute of Technology
--   *English Listening and Vocabulary Practice* at Kumoh National Institute of Technology
--   *Workshop on Data Visualization in Second Language Research* at The Modern English Education Society
--   *Learning and Practicing English Pronunciation* at Kumoh National Institute of Technology
--   *English Reading and Writing Practice* at Kumoh National Institute of Technology
+-   *Introduction to Using R for English Education Research* The Modern English Education Society, Konkuk University
+-   *An Introduction to Data Analysis using R*, Kumoh National Institute of Technology
+-   *Advanced English Grammar*, Kumoh National Institute of Technology
+-   *Workshop on Data Analysis in Linguistic Research*, Konkuk University
+-   *English Pronunciation Teaching and Research*, Kumoh National Institute of Technology
+-   *English Listening and Vocabulary Practice*, Kumoh National Institute of Technology
+-   *Workshop on Data Visualization in Second Language Research*, The Modern English Education Society, Online
+-   *Learning and Practicing English Pronunciation*, Kumoh National Institute of Technology
+-   *English Reading and Writing Practice*, Kumoh National Institute of Technology
 
