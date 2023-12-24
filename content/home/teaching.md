@@ -24,11 +24,12 @@ weight = 50
 - Psycholinguistics 1
 - Applied English Linguistics
 
+<br/>
 
 **Workshops**
 
 - Data Visualization for Linguistics with R, Pusan National University
-- Introduction oo Data Analysis Using R for English Education Research, *The Modern English Education Society*, Konkuk University 
+- Introduction to Data Analysis Using R for English Education Research, *The Modern English Education Society*, Konkuk University 
 - Data Analysis in Linguistic Research, Konkuk University
 - Data Visualization in Second Language Research, *The Modern English Education Society*, Online
 
