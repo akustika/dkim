@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash.
 title = "Donghyun Kim"
-copyright = "&copy; 2020 Donghyun Kim"
+copyright = "&copy; 2023 Donghyun Kim"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -24,13 +24,13 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Donghyun Kim"
-  role = "Postdoctoral Researcher"
-  organization = "University of Exeter"
-  organization_url = "https://www.exeter.ac.uk"
+  role = "Assistant Professor"
+  organization = "Kyungpook National University"
+  organization_url = "https://www.knu.ac.kr/wbbs/wbbs/main/main.action"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "dkim@kumoh.ac.kr"
-  address = "Washington Singer Building, Room 218, University of Exeter, Exeter, UK"
+  email = "donghyun@knu.ac.kr"
+  address = "Graduate School Building, Kyungpook National University, Daegu, South Korea"
   office_hours = "Email for appointment"
   # phone = "888 888 88 88"
   #  skype = "donplaysmusic"
@@ -76,7 +76,7 @@ defaultContentLanguageInSubdir = false
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "2006-01-02"
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -165,7 +165,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:d.kim2@exeter.ac.uk"
+    link = "mailto:donghyun@knu.ac.kr"
 
 #  [[params.social]]
 #    icon = "twitter"
