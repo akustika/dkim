@@ -17,15 +17,15 @@ weight = 50
 
 +++
 
-Below is a list of courses or workshops that I have taught:
+Courses at Kyungpook National University
+-   Psycholinguistics 2
+-   Language and Cognition
+-   Psycholinguistics 1
+-   Applied English Linguistics
 
--   *Introduction to Using R for English Education Research* The Modern English Education Society, Konkuk University
--   *An Introduction to Data Analysis using R*, Kumoh National Institute of Technology
--   *Advanced English Grammar*, Kumoh National Institute of Technology
--   *Workshop on Data Analysis in Linguistic Research*, Konkuk University
--   *English Pronunciation Teaching and Research*, Kumoh National Institute of Technology
--   *English Listening and Vocabulary Practice*, Kumoh National Institute of Technology
--   *Workshop on Data Visualization in Second Language Research*, The Modern English Education Society, Online
--   *Learning and Practicing English Pronunciation*, Kumoh National Institute of Technology
--   *English Reading and Writing Practice*, Kumoh National Institute of Technology
+Workshops
+-   Data Visualization for Linguistics with R, Pusan National University
+-   Introduction oo Data Analysis Using R for English Education Research, *The Modern English Education Society*, Konkuk University 
+-   Data Analysis in Linguistic Research, Konkuk University
+-   Data Visualization in Second Language Research, *The Modern English Education Society*, Online
 
