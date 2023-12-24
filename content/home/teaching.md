@@ -17,17 +17,17 @@ weight = 50
 
 +++
 
-Courses at Kyungpook National University
+**Courses at Kyungpook National University**
 
--   Psycholinguistics 2
--   Language and Cognition
--   Psycholinguistics 1
--   Applied English Linguistics
+- Psycholinguistics 2
+- Language and Cognition
+- Psycholinguistics 1
+- Applied English Linguistics
 
-Workshops
+**Workshops**
 
--   Data Visualization for Linguistics with R, Pusan National University
--   Introduction oo Data Analysis Using R for English Education Research, *The Modern English Education Society*, Konkuk University 
--   Data Analysis in Linguistic Research, Konkuk University
--   Data Visualization in Second Language Research, *The Modern English Education Society*, Online
+- Data Visualization for Linguistics with R, Pusan National University
+- Introduction oo Data Analysis Using R for English Education Research, *The Modern English Education Society*, Konkuk University 
+- Data Analysis in Linguistic Research, Konkuk University
+- Data Visualization in Second Language Research, *The Modern English Education Society*, Online
 
