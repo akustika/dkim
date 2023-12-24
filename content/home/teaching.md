@@ -24,6 +24,7 @@ weight = 50
 - Psycholinguistics 1
 - Applied English Linguistics
 
+
 **Workshops**
 
 - Data Visualization for Linguistics with R, Pusan National University
